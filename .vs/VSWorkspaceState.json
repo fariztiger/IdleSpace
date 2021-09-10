@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\enemies",
+    "\\src\\app\\enemies\\search",
+    "\\src\\app\\model",
+    "\\src\\app\\model\\prestige"
+  ],
+  "SelectedNode": "\\src\\app\\enemies\\search\\search.component.ts",
+  "PreviewInSolutionExplorer": false
+}
