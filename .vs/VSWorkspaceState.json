@@ -3,11 +3,15 @@
     "",
     "\\src",
     "\\src\\app",
-    "\\src\\app\\enemies",
-    "\\src\\app\\enemies\\search",
+    "\\src\\app\\action",
+    "\\src\\app\\action\\buttons",
+    "\\src\\app\\automator-group",
+    "\\src\\app\\battle",
+    "\\src\\app\\dark-matter",
+    "\\src\\app\\enemies\\enemy-view",
     "\\src\\app\\model",
     "\\src\\app\\model\\prestige"
   ],
-  "SelectedNode": "\\src\\app\\enemies\\search\\search.component.ts",
+  "SelectedNode": "\\src\\app\\action\\buttons\\buttons.component.scss",
   "PreviewInSolutionExplorer": false
 }
